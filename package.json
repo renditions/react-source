@@ -1,7 +1,7 @@
 {
   "name": "@renditions/react-picture-source",
   "version": "0.0.1",
-  "description": "React component for rendering HTML source tag with nice abstractions over srcset, sizes and src attributes.",
+  "description": "React component for rendering HTML source tag with nice abstractions over srcset and sizes attributes.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {

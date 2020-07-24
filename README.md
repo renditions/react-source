@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@renditions/react-picture-source.svg?style=flat-square)](https://www.npmjs.com/package/@renditions/react-picture-source) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard)
 
-React component for rendering HTML `<source>` tag with nice abstractions over srcset, sizes and src attributes.
+React component for rendering HTML `<source>` tag with nice abstractions over srcset and sizes attributes.
 
 ## Install
 
