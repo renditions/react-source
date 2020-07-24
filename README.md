@@ -125,3 +125,9 @@ HTML:
 The `breakpoints` prop is expected to be an array sorted by `mediaMinWidth` in _descending_ order. Likewise, the `renditions` prop is expected to be an array sorted by `width` in _ascending_ order.
 
 To sort these automatically, you can set the `autoSortBreakpoints` and `autoSortRenditions` boolean props.
+
+## See Also
+
+* [@renditions/react-img](https://github.com/renditions/react-img)
+* [@renditions/get-sizes](https://github.com/renditions/get-sizes)
+* [@renditions/get-srcset](https://github.com/renditions/get-srcset)
